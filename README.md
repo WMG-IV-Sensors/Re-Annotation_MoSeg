@@ -10,5 +10,7 @@ Three sets of criteria were defined for the labels:
 |1.3 BB shall not include any estimated or occluded parts of the object, unless criteria~1.2 is applicable | 2.3 BB shall not include any estimated or occluded parts of the object, unless criteria~2.2 is applicable | |
 |1.4 BB must be added when more than 20\% of one side of the object is visible | | |
 
+*Incorrect stands for BBs that clearly do not belong to any target objects
+
 # Citing
 Please cite the following article if you are using this dataset.
