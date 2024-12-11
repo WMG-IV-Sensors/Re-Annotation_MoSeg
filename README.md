@@ -14,3 +14,13 @@ Three sets of criteria were defined for the labels:
 
 # Citing
 Please cite the following article if you are using this dataset.
+
+@article{chan2024inconvenient,
+  title={The inconvenient truth of ground truth errors in automotive datasets and DNN-based detection},
+  author={Chan, Pak Hung and Li, Boda and Baris, Gabriele and Sadiq, Qasim and Donzella, Valentina},
+  journal={Data-Centric Engineering},
+  volume={5},
+  pages={e34},
+  year={2024},
+  publisher={Cambridge University Press}
+}
